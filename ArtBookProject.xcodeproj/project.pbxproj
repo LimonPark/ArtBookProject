@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11823C4C28CCEA4E00BBB57D /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11823C4B28CCEA4E00BBB57D /* DetailsVC.swift */; };
+		11823C5028CCF98100BBB57D /* select.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 11823C4F28CCF98100BBB57D /* select.jpeg */; };
 		11B9CAF42897E0AB000EC4FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B9CAF32897E0AB000EC4FF /* AppDelegate.swift */; };
 		11B9CAF62897E0AB000EC4FF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B9CAF52897E0AB000EC4FF /* SceneDelegate.swift */; };
 		11B9CAF82897E0AB000EC4FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B9CAF72897E0AB000EC4FF /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		11823C4B28CCEA4E00BBB57D /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
+		11823C4F28CCF98100BBB57D /* select.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = select.jpeg; sourceTree = "<group>"; };
 		11B9CAF02897E0AA000EC4FF /* ArtBookProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArtBookProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11B9CAF32897E0AB000EC4FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11B9CAF52897E0AB000EC4FF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,9 +62,11 @@
 		11B9CAF22897E0AA000EC4FF /* ArtBookProject */ = {
 			isa = PBXGroup;
 			children = (
+				11823C4F28CCF98100BBB57D /* select.jpeg */,
 				11B9CAF32897E0AB000EC4FF /* AppDelegate.swift */,
 				11B9CAF52897E0AB000EC4FF /* SceneDelegate.swift */,
 				11B9CAF72897E0AB000EC4FF /* ViewController.swift */,
+				11823C4B28CCEA4E00BBB57D /* DetailsVC.swift */,
 				11B9CAF92897E0AB000EC4FF /* Main.storyboard */,
 				11B9CAFF2897E0B0000EC4FF /* Assets.xcassets */,
 				11B9CB012897E0B0000EC4FF /* LaunchScreen.storyboard */,
@@ -131,6 +137,7 @@
 				11B9CB032897E0B0000EC4FF /* LaunchScreen.storyboard in Resources */,
 				11B9CB002897E0B0000EC4FF /* Assets.xcassets in Resources */,
 				11B9CAFB2897E0AB000EC4FF /* Main.storyboard in Resources */,
+				11823C5028CCF98100BBB57D /* select.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,6 +152,7 @@
 				11B9CAF82897E0AB000EC4FF /* ViewController.swift in Sources */,
 				11B9CAF42897E0AB000EC4FF /* AppDelegate.swift in Sources */,
 				11B9CAF62897E0AB000EC4FF /* SceneDelegate.swift in Sources */,
+				11823C4C28CCEA4E00BBB57D /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
